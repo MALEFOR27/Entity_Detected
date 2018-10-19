@@ -87,7 +87,7 @@ ships.push(Dread_Corvette_501);
 ships.push(Iron_Dragon_502);
 ships.push(Stealth_Fighter_503);
 ships.push(Void_Superiority_504);
-ships.push(Oculus_505);
+ships.push(Hunter_Drone_505);
 ships.push(Wasp_506);
 ships.push(Mercy_507);
  
